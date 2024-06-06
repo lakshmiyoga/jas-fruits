@@ -1,0 +1,2021 @@
+
+[
+    {
+        "name": "AMLA",
+        "price": 95,
+        "ratings": 4,
+        "images": [
+            {
+                "image": "/images/products/amla.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 10,
+        "reviews": []
+    },
+    {
+        "name": "ASH GOURD (pumpkin)",
+        "price": 15,
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/products/ash_gourd.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "BABY CORN",
+        "price": 24,
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "/images/products/baby_corn.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "BABY POTATO",
+        "price": 25,
+        "ratings": 4.1,
+        "images": [
+            {
+                "image": "/images/products/baby_potato.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 8,
+        "reviews": []
+    },
+    {
+        "name": "BANANNA LUNCH LEAF",
+        "price": 4,
+        "ratings": 4,
+        "images": [
+            {
+                "image": "/images/products/banana_lunch_leaf.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 3,
+        "reviews": []
+    },
+    {
+        "name": "BEANS",
+        "price": 170,
+        "ratings": 4.3,
+        "images": [
+            {
+                "image": "/images/products/beans.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "BEETROOT",
+        "price": 48,
+        "ratings": 4,
+        "images": [
+            {
+                "image": "/images/products/beetroot.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 7,
+        "reviews": []
+    },
+    {
+        "name": "BITTER GOURD BABY",
+        "price": 60,
+        "ratings": 3.8,
+        "images": [
+            {
+                "image": "/images/products/bitter_gourd_baby.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "BITTER GOURD BIG",
+        "price": 80,
+        "ratings": 4.1,
+        "images": [
+            {
+                "image": "/images/products/bitter_gourd_big.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 11,
+        "reviews": []
+    },
+    {
+        "name": "BITTER GOURD SMALL",
+        "price": 60,
+        "ratings": 3.9,
+        "images": [
+            {
+                "image": "/images/products/bitter_gourd_small.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 6,
+        "reviews": []
+    },
+    {
+        "name": "BOTTLE GOURD",
+        "price": 58,
+        "ratings": 4,
+        "images": [
+            {
+                "image": "/images/products/bottle_gourd.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 10,
+        "reviews": []
+    },
+    {
+        "name": "BRINJAL BHAVANI",
+        "price": 60,
+        "ratings": 4.1,
+        "images": [
+            {
+                "image": "/images/products/brinjal_bhavani.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 13,
+        "reviews": []
+    },
+    {
+        "name": "BRINJAL BIG",
+        "price": 55,
+        "ratings": 3.8,
+        "images": [
+            {
+                "image": "/images/products/brinjal_big.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "BRINJAL GREEN",
+        "price": 48,
+        "ratings": 4,
+        "images": [
+            {
+                "image": "/images/products/brinjal_green.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 7,
+        "reviews": []
+    },
+    {
+        "name": "BRINJAL UJALA",
+        "price": 45,
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "/images/products/brinjal_ujala.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 6,
+        "reviews": []
+    },
+    {
+        "name": "BRINJAL VARI",
+        "price": 30,
+        "ratings": 4,
+        "images": [
+            {
+                "image": "/images/products/brinjal_vari.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 4,
+        "reviews": []
+    },
+    {
+        "name": "BROCCOLI",
+        "price": 130,
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/broccoli.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "BUTTER BEANS",
+        "price": 80,
+        "ratings": 4.1,
+        "images": [
+            {
+                "image": "/images/products/butter_beans.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 14,
+        "reviews": []
+    },
+    {
+        "name": "CABBAGE CHINESE",
+        "price": 50,
+        "ratings": 4,
+        "images": [
+            {
+                "image": "/images/products/cabbage_chinese.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 11,
+        "reviews": []
+    },
+    {
+        "name": "CABBAGE GREEN",
+        "price": 25,
+        "ratings": 4,
+        "images": [
+            {
+                "image": "/images/products/cabbage_green.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "CABBAGE RED",
+        "price": 50,
+        "ratings": 4.3,
+        "images": [
+            {
+                "image": "/images/products/cabbage_red.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 8,
+        "reviews": []
+    },
+    {
+        "name": "CALIFLOWER",
+        "price": 30,
+        "ratings": 4,
+        "images": [
+            {
+                "image": "/images/products/cauliflower.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 7,
+        "reviews": []
+    },
+    {
+        "name": "CAPSICUM",
+        "price": 60,
+        "ratings": 4,
+        "images": [
+            {
+                "image": "/images/products/capsicum.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "CAPSICUM RED",
+        "price": 170,
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/capsicum_red.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 16,
+        "reviews": []
+    },
+    {
+        "name": "CAPSICUM YELLOW",
+        "price": 170,
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/capsicum_yellow.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 16,
+        "reviews": []
+    },
+    {
+        "name": "CARROT",
+        "price": 60,
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "/images/products/carrot.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 18,
+        "reviews": []
+    },
+    {
+        "name": "CELLERY",
+        "price": 80,
+        "ratings": 4.3,
+        "images": [
+            {
+                "image": "/images/products/celery.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 18,
+        "reviews": []
+    },
+    {
+        "name": "Radish Red",
+        "price": 50,
+        "ratings": 4,
+        "images": [
+            {
+                "image": "/images/products/radish_red.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Radish White",
+        "price": 35,
+        "ratings": 4.1,
+        "images": [
+            {
+                "image": "/images/products/radish_white.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Raw Banana",
+        "price": 35,
+        "ratings": 3.9,
+        "images": [
+            {
+                "image": "/images/products/raw_banana.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 10,
+        "reviews": []
+    },
+    {
+        "name": "Raw Mango",
+        "price": 35,
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "/images/products/raw_mango.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "Ridge Gourd",
+        "price": 80,
+        "ratings": 4.4,
+        "images": [
+            {
+                "image": "/images/products/ridge_gourd.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 18,
+        "reviews": []
+    },
+    {
+        "name": "Sembu",
+        "price": 55,
+        "ratings": 3.8,
+        "images": [
+            {
+                "image": "/images/products/sembu.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "Senai",
+        "price": 78,
+        "ratings": 4.1,
+        "images": [
+            {
+                "image": "/images/products/senai.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 11,
+        "reviews": []
+    },
+    {
+        "name": "Snake Gourd",
+        "price": 60,
+        "ratings": 3.7,
+        "images": [
+            {
+                "image": "/images/products/snake_gourd.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 8,
+        "reviews": []
+    },
+    {
+        "name": "Beans Soya",
+        "price": 160,
+        "ratings": 4.3,
+        "images": [
+            {
+                "image": "/images/products/beans_soya.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 14,
+        "reviews": []
+    },
+    {
+        "name": "Sweet Corn",
+        "price": 48,
+        "ratings": 4,
+        "images": [
+            {
+                "image": "/images/products/sweet_corn.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 13,
+        "reviews": []
+    },
+    {
+        "name": "Sweet Potato",
+        "price": 60,
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "/images/products/sweet_potato.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 16,
+        "reviews": []
+    },
+    {
+        "name": "Thin Beans",
+        "price": 60,
+        "ratings": 3.9,
+        "images": [
+            {
+                "image": "/images/products/thin_beans.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 10,
+        "reviews": []
+    },
+    {
+        "name": "Tomato Green",
+        "price": 92,
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/tomato_green.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 18,
+        "reviews": []
+    },
+    {
+        "name": "Tomato Nadu",
+        "price": 26,
+        "ratings": 4.1,
+        "images": [
+            {
+                "image": "/images/products/tomato_nadu.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 11,
+        "reviews": []
+    },
+    {
+        "name": "Tomato Naveen",
+        "price": 26,
+        "ratings": 3.8,
+        "images": [
+            {
+                "image": "/images/products/tomato_naveen.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 7,
+        "reviews": []
+    },
+    {
+        "name": "Vadhumanga",
+        "price": 100,
+        "ratings": 4.6,
+        "images": [
+            {
+                "image": "/images/products/vadhumanga.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 21,
+        "reviews": []
+    },
+    {
+        "name": "Zucchini Green",
+        "price": 160,
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/zucchini_green.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 22,
+        "reviews": []
+    },
+    {
+        "name": "Zucchini Yellow",
+        "price": 160,
+        "ratings": 4.6,
+        "images": [
+            {
+                "image": "/images/products/zucchini_yellow.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "Agathi Keerai",
+        "price": 8,
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/products/agathi_keerai.jpg"
+            }
+        ],
+        "category": "Keerai",
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "Arai Keerai",
+        "price": 8,
+        "ratings": 4.1,
+        "images": [
+            {
+                "image": "/images/products/arai_keerai.jpg"
+            }
+        ],
+        "category": "Keerai",
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "Manthakali Keerai",
+        "price": 8,
+        "ratings": 3.9,
+        "images": [
+            {
+                "image": "/images/products/manthakali_keerai.jpg"
+            }
+        ],
+        "category": "Keerai",
+        "numOfReviews": 6,
+        "reviews": []
+    },
+    {
+        "name": "Mudakathan Keerai",
+        "price": 5,
+        "ratings": 3.2,
+        "images": [
+            {
+                "image": "/images/products/mudakathan_keerai.jpg"
+            }
+        ],
+        "category": "Keerai",
+        "numOfReviews": 3,
+        "reviews": []
+    },
+    {
+        "name": "Mulaikeerai",
+        "price": 8,
+        "ratings": 3.7,
+        "images": [
+            {
+                "image": "/images/products/mulaikeerai.jpg"
+            }
+        ],
+        "category": "Keerai",
+        "numOfReviews": 4,
+        "reviews": []
+    },
+    {
+        "name": "Muruga Keerai",
+        "price": 25,
+        "ratings": 4.3,
+        "images": [
+            {
+                "image": "/images/products/muruga_keerai.jpg"
+            }
+        ],
+        "category": "Keerai",
+        "numOfReviews": 11,
+        "reviews": []
+    },
+    {
+        "name": "Palak",
+        "price": 10,
+        "ratings": 4.4,
+        "images": [
+            {
+                "image": "/images/products/palak.jpg"
+            }
+        ],
+        "category": "Keerai",
+        "numOfReviews": 13,
+        "reviews": []
+    },
+    {
+        "name": "Parupu Keerai",
+        "price": 8,
+        "ratings": 3.8,
+        "images": [
+            {
+                "image": "/images/products/parupu_keerai.jpg"
+            }
+        ],
+        "category": "Keerai",
+        "numOfReviews": 6,
+        "reviews": []
+    },
+    {
+        "name": "Ponnanganni Green",
+        "price": 8,
+        "ratings": 3.9,
+        "images": [
+            {
+                "image": "/images/products/ponnanganni_keerai.jpg"
+            }
+        ],
+        "category": "Keerai",
+        "numOfReviews": 6,
+        "reviews": []
+    },
+    
+{
+    "name": "Sukkan Keerai",
+    "price": 10,
+    "ratings": 3.5,
+    "images": [
+        {
+            "image": "/images/products/sukkan_keerai.jpg"
+        }
+    ],
+    "category": "Keerai",
+    "numOfReviews": 10,
+    "reviews": []
+},
+{
+    "name": "Sundakai",
+    "price": 125,
+    "ratings": 4,
+    "images": [
+        {
+            "image": "/images/products/sundakai.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 20,
+    "reviews": []
+},
+{
+    "name": "Thoothuvalai Keerai",
+    "price": 6,
+    "ratings": 4.5,
+    "images": [
+        {
+            "image": "/images/products/thoothuvalai_keerai.jpg"
+        }
+    ],
+    "category": "Keerai",
+    "numOfReviews": 5,
+    "reviews": []
+},
+{
+    "name": "Vallari Keerai",
+    "price": 5,
+    "ratings": 4,
+    "images": [
+        {
+            "image": "/images/products/vallari_keerai.jpg"
+        }
+    ],
+    "category": "Keerai",
+    "numOfReviews": 8,
+    "reviews": []
+},
+{
+    "name": "Vasalai Keerai",
+    "price": 7,
+    "ratings": 4.2,
+    "images": [
+        {
+            "image": "/images/products/vasalai_keerai.jpg"
+        }
+    ],
+    "category": "Keerai",
+    "numOfReviews": 12,
+    "reviews": []
+},
+{
+    "name": "Venthayakkerai Big",
+    "price": 20,
+    "ratings": 3.8,
+    "images": [
+        {
+            "image": "/images/products/venthayakkerai_big.jpg"
+        }
+    ],
+    "category": "Keerai",
+    "numOfReviews": 15,
+    "reviews": []
+},
+{
+    "name": "Venthayakkerai Small",
+    "price": 6,
+    "ratings": 4.5,
+    "images": [
+        {
+            "image": "/images/products/venthayakkerai_small.jpg"
+        }
+    ],
+    "category": "Keerai",
+    "numOfReviews": 6,
+    "reviews": []
+},
+{
+    "name": "Apple - Royal Gala",
+    "price": 1950,
+    "ratings": 4.7,
+    "images": [
+        {
+            "image": "/images/products/apple_royal_gala.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 25,
+    "reviews": []
+},
+{
+    "name": "Apple - Shimla",
+    "price": 2000,
+    "ratings": 4.6,
+    "images": [
+        {
+            "image": "/images/products/apple_shimla.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 30,
+    "reviews": []
+},
+{
+    "name": "Australia Orange",
+    "price": 1600,
+    "ratings": 4.3,
+    "images": [
+        {
+            "image": "/images/products/australia_orange.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 18,
+    "reviews": []
+},
+{
+    "name": "Banana - Elakki",
+    "price": 45,
+    "ratings": 4.1,
+    "images": [
+        {
+            "image": "/images/products/banana_elakki.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 10,
+    "reviews": []
+},
+{
+    "name": "Banana - Peyan",
+    "price": 130,
+    "ratings": 4.4,
+    "images": [
+        {
+            "image": "/images/products/banana_peyan.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 15,
+    "reviews": []
+},
+{
+    "name": "Black Grapes Seedless",
+    "price": 1250,
+    "ratings": 4.2,
+    "images": [
+        {
+            "image": "/images/products/black_grapes_seedless.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 22,
+    "reviews": []
+},
+{
+    "name": "Blueberry",
+    "price": 1150,
+    "ratings": 4.5,
+    "images": [
+        {
+            "image": "/images/products/blueberry.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 20,
+    "reviews": []
+},
+{
+    "name": "Butter Fruit",
+    "price": 310,
+    "ratings": 3.9,
+    "images": [
+        {
+            "image": "/images/products/butter_fruit.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 14,
+    "reviews": []
+},
+{
+    "name": "Chevazhai",
+    "price": 650,
+    "ratings": 4.1,
+    "images": [
+        {
+            "image": "/images/products/chevazhai.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 11,
+    "reviews": []
+},
+{
+    "name": "Dragon Fruits",
+    "price": 850,
+    "ratings": 4.6,
+    "images": [
+        {
+            "image": "/images/products/dragon_fruits.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 19,
+    "reviews": []
+},
+{
+    "name": "Fig Fruit",
+    "price": 35,
+    "ratings": 4,
+    "images": [
+        {
+            "image": "/images/products/fig_fruit.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 8,
+    "reviews": []
+},
+{
+    "name": "Grapes Green",
+    "price": 950,
+    "ratings": 4.3,
+    "images": [
+        {
+            "image": "/images/products/grapes_green.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 21,
+    "reviews": []
+},
+{
+    "name": "Grapes - Panner",
+    "price": 740,
+    "ratings": 4.4,
+    "images": [
+        {
+            "image": "/images/products/grapes_panner.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 17,
+    "reviews": []
+},
+{
+    "name": "Guava White",
+    "price": 65,
+    "ratings": 3.9,
+    "images": [
+        {
+            "image": "/images/products/guava_white.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Jack Fruits",
+    "price": 150,
+    "ratings": 4.2,
+    "images": [
+        {
+            "image": "/images/products/jack_fruits.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 12,
+    "reviews": []
+},
+{
+    "name": "Jamoon Fruit",
+    "price": 140,
+    "ratings": 4.1,
+    "images": [
+        {
+            "image": "/images/products/jamoon_fruit.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 11,
+    "reviews": []
+},
+{
+    "name": "Kamala Orange",
+    "price": 1.40,
+    "ratings": 4.2,
+    "images": [
+        {
+            "image": "/images/products/kamala_orange.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 14,
+    "reviews": []
+},
+{
+    "name": "Karpuravalli",
+    "price": 45,
+    "ratings": 3.8,
+    "images": [
+        {
+            "image": "/images/products/karpuravalli.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 10,
+    "reviews": []
+},
+{
+    "name": "Kiwi Fruit",
+    "price": 1580,
+    "ratings": 4.5,
+    "images": [
+        {
+            "image": "/images/products/kiwi_fruit.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 23,
+    "reviews": []
+},
+{
+    "name": "Malaivazhai",
+    "price": 120,
+    "ratings": 4.1,
+    "images": [
+        {
+            "image": "/images/products/malaivazhai.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 16,
+    "reviews": []
+},
+{
+    "name": "Malta Orange",
+    "price": 125,
+    "ratings": 4.3,
+    "images": [
+        {
+            "image": "/images/products/malta_orange.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 18,
+    "reviews": []
+},
+{
+    "name": "Mandarins Orange",
+    "price": 1650,
+    "ratings": 4.4,
+    "images": [
+        {
+            "image": "/images/products/mandarins_orange.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 24,
+    "reviews": []
+},
+{
+    "name": "Mango - Banganaballi",
+    "price": 85,
+    "ratings": 4.5,
+    "images": [
+        {
+            "image": "/images/products/mango_banganaballi.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 20,
+    "reviews": []
+},
+{
+    "name": "Mango - Himampasand",
+    "price": 155,
+    "ratings": 4.7,
+    "images": [
+        {
+            "image": "/images/products/mango_himampasand.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 22,
+    "reviews": []
+},
+{
+    "name": "Mango - Senthura",
+    "price": 75,
+    "ratings": 4.6,
+    "images": [
+        {
+            "image": "/images/products/mango_senthura.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 18,
+    "reviews": []
+},
+{
+    "name": "Morris Fruit (KGS)",
+    "price": 450,
+    "ratings": 4.1,
+    "images": [
+        {
+            "image": "/images/products/morris_fruit.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 17,
+    "reviews": []
+},
+{
+    "name": "Musk Melon Vari",
+    "price": 40,
+    "ratings": 3.8,
+    "images": [
+        {
+            "image": "/images/products/musk_melon_vari.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 10,
+    "reviews": []
+},
+{
+    "name": "Muskmelon (KGS)",
+    "price": 38,
+    "ratings": 4.3,
+    "images": [
+        {
+            "image": "/images/products/muskmelon.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 15,
+    "reviews": []
+},
+{
+    "name": "Musambi (KGS)",
+    "price": 65,
+    "ratings": 4.5,
+    "images": [
+        {
+            "image": "/images/products/musambi.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 22,
+    "reviews": []
+},
+{
+    "name": "Nendram Banana",
+    "price": 60,
+    "ratings": 4,
+    "images": [
+        {
+            "image": "/images/products/nendram_banana.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 11,
+    "reviews": []
+},
+{
+    "name": "Pappaya (KGS)",
+    "price": 45,
+    "ratings": 4.2,
+    "images": [
+        {
+            "image": "/images/products/pappaya.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 14,
+    "reviews": []
+},
+{
+    "name": "Passion Fruit",
+    "price": 155,
+    "ratings": 4.6,
+    "images": [
+        {
+            "image": "/images/products/passion_fruit.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 20,
+    "reviews": []
+},
+{
+    "name": "Pineapple (KGS)",
+    "price": 85,
+    "ratings": 4.3,
+    "images": [
+        {
+            "image": "/images/products/pineapple.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 18,
+    "reviews": []
+},
+{
+    "name": "Pomegranate Kabul",
+    "price": 2150,
+    "ratings": 4.7,
+    "images": [
+        {
+            "image": "/images/products/pomegranate_kabul.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 25,
+    "reviews": []
+},
+{
+    "name": "Poovampalam",
+    "price": 45,
+    "ratings": 3.9,
+    "images": [
+        {
+            "image": "/images/products/poovampalam.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Rasthali (KGS)",
+    "price": 65,
+    "ratings": 4.4,
+    "images": [
+        {
+            "image": "/images/products/rasthali.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 12,
+    "reviews": []
+},
+{
+    "name": "Sappota (KGS)",
+    "price": 65,
+    "ratings": 4.1,
+    "images": [
+        {
+            "image": "/images/products/sappota.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 16,
+    "reviews": []
+},
+{
+    "name": "Strawberry Fruit (Boxes)",
+    "price": 85,
+    "ratings": 4.5,
+    "images": [
+        {
+            "image": "/images/products/strawberry_fruit.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 19,
+    "reviews": []
+},
+{
+    "name": "Water Melon",
+    "price": 35,
+    "ratings": 3.8,
+    "images": [
+        {
+            "image": "/images/products/water_melon.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 7,
+    "reviews": []
+},
+{
+    "name": "Water Melon Kiran",
+    "price": 100,
+    "ratings": 4.1,
+    "images": [
+        {
+            "image": "/images/products/water_melon_kiran.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 13,
+    "reviews": []
+},
+{
+    "name": "Nendram Chips",
+    "price": 70,
+    "ratings": 4.3,
+    "images": [
+        {
+            "image": "/images/products/nendram_chips.jpg"
+        }
+    ],
+    "category": "Snacks",
+    "numOfReviews": 12,
+    "reviews": []
+},
+{
+    "name": "Tender Coconut",
+    "price": 65,
+    "ratings": 4.6,
+    "images": [
+        {
+            "image": "/images/products/tender_coconut.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 21,
+    "reviews": []
+},
+{
+    "name": "Red Dates",
+    "price": 75,
+    "ratings": 4.4,
+    "images": [
+        {
+            "image": "/images/products/red_dates.jpg"
+        }
+    ],
+    "category": "Dry Fruits",
+    "numOfReviews": 11,
+    "reviews": []
+},
+{
+    "name": "Yellow Dates",
+    "price": 80,
+    "ratings": 4.2,
+    "images": [
+        {
+            "image": "/images/products/yellow_dates.jpg"
+        }
+    ],
+    "category": "Dry Fruits",
+    "numOfReviews": 14,
+    "reviews": []
+},
+{
+    "name": "Pomegranate White",
+    "price": 2150,
+    "ratings": 4.5,
+    "images": [
+        {
+            "image": "/images/products/pomegranate_white.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 18,
+    "reviews": []
+},
+    {
+    "name": "Banana Leaf Special Square",
+    "price": 12,
+    "ratings": 4.3,
+    "images": [
+        {
+            "image": "/images/products/banana_leaf_special_square.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 7,
+    "reviews": []
+},
+{
+    "name": "Banana Leaf Big Square",
+    "price": 15,
+    "ratings": 4.1,
+    "images": [
+        {
+            "image": "/images/products/banana_leaf_big_square.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Banana Leaf Small Square",
+    "price": 8,
+    "ratings": 3.9,
+    "images": [
+        {
+            "image": "/images/products/banana_leaf_small_square.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 6,
+    "reviews": []
+},
+{
+    "name": "Banana Big Round",
+    "price": 2.60,
+    "ratings": 4.5,
+    "images": [
+        {
+            "image": "/images/products/banana_big_round.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 11,
+    "reviews": []
+},
+{
+    "name": "Banana Leaf Tiffen",
+    "price": 5,
+    "ratings": 3.7,
+    "images": [
+        {
+            "image": "/images/products/banana_leaf_tiffen.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 5,
+    "reviews": []
+},
+{
+    "name": "Potato Metupalayam",
+    "price": 50,
+    "ratings": 4,
+    "images": [
+        {
+            "image": "/images/products/potato_metupalayam.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 10,
+    "reviews": []
+},
+{
+    "name": "Peeled Garlic",
+    "price": 215,
+    "ratings": 4.6,
+    "images": [
+        {
+            "image": "/images/products/peeled_garlic.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 14,
+    "reviews": []
+},
+{
+    "name": "Sweet Tamarind",
+    "price": 90,
+    "ratings": 4.3,
+    "images": [
+        {
+            "image": "/images/products/sweet_tamarind.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 12,
+    "reviews": []
+},
+{
+    "name": "Basil",
+    "price": 135,
+    "ratings": 4.2,
+    "images": [
+        {
+            "image": "/images/products/basil.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 16,
+    "reviews": []
+},
+{
+    "name": "Leeks",
+    "price": 125,
+    "ratings": 4.1,
+    "images": [
+        {
+            "image": "/images/products/leeks.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 14,
+    "reviews": []
+},
+{
+    "name": "Black Grapes Seed Less",
+    "price": 1550,
+    "ratings": 4.7,
+    "images": [
+        {
+            "image": "/images/products/black_grapes_seed_less.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 20,
+    "reviews": []
+},
+{
+    "name": "Cucumber",
+    "price": 48,
+    "ratings": 4.1,
+    "images": [
+        {
+            "image": "/images/products/cucumber.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 12,
+    "reviews": []
+},
+{
+    "name": "Cucumber Organic",
+    "price": 62,
+    "ratings": 4.3,
+    "images": [
+        {
+            "image": "/images/products/cucumber_organic.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 10,
+    "reviews": []
+},
+{
+    "name": "Curry Leaves",
+    "price": 30,
+    "ratings": 4.5,
+    "images": [
+        {
+            "image": "/images/products/curry_leaves.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 8,
+    "reviews": []
+},
+{
+    "name": "Double Beans",
+    "price": 85,
+    "ratings": 4.6,
+    "images": [
+        {
+            "image": "/images/products/double_beans.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 14,
+    "reviews": []
+},
+{
+    "name": "Drumstick",
+    "price": 35,
+    "ratings": 4.2,
+    "images": [
+        {
+            "image": "/images/products/drumstick.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 10,
+    "reviews": []
+},
+{
+    "name": "Garlic",
+    "price": 275,
+    "ratings": 4.5,
+    "images": [
+        {
+            "image": "/images/products/garlic.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 18,
+    "reviews": []
+},
+{
+    "name": "Ginger",
+    "price": 145,
+    "ratings": 4.3,
+    "images": [
+        {
+            "image": "/images/products/ginger.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 15,
+    "reviews": []
+},
+{
+    "name": "Green Chilly",
+    "price": 70,
+    "ratings": 4,
+    "images": [
+        {
+            "image": "/images/products/green_chilly.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 13,
+    "reviews": []
+},
+{
+    "name": "Green Peas",
+    "price": 185,
+    "ratings": 4.6,
+    "images": [
+        {
+            "image": "/images/products/green_peas.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 19,
+    "reviews": []
+},
+{
+    "name": "Ground Nut",
+    "price": 85,
+    "ratings": 4.1,
+    "images": [
+        {
+            "image": "/images/products/ground_nut.jpg"
+        }
+    ],
+    "category": "Nuts",
+    "numOfReviews": 10,
+    "reviews": []
+},
+{
+    "name": "Ice Berg",
+    "price": 92,
+    "ratings": 4.5,
+    "images": [
+        {
+            "image": "/images/products/ice_berg.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 16,
+    "reviews": []
+},
+{
+    "name": "Ivy Gourd",
+    "price": 42,
+    "ratings": 4.2,
+    "images": [
+        {
+            "image": "/images/products/ivy_gourd.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Lab Lab",
+    "price": 95,
+    "ratings": 4.3,
+    "images": [
+        {
+            "image": "/images/products/lab_lab.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 12,
+    "reviews": []
+},
+{
+    "name": "Ladiesfinger",
+    "price": 68,
+    "ratings": 4.4,
+    "images": [
+        {
+            "image": "/images/products/ladiesfinger.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 11,
+    "reviews": []
+},
+{
+    "name": "Lemon (KG)",
+    "price": 150,
+    "ratings": 4.5,
+    "images": [
+        {
+            "image": "/images/products/lemon.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "numOfReviews": 14,
+    "reviews": []
+},
+{
+    "name": "Lettuce",
+    "price": 28,
+    "ratings": 4,
+    "images": [
+        {
+            "image": "/images/products/lettuce.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 8,
+    "reviews": []
+},
+{
+    "name": "Malabar",
+    "price": 8,
+    "ratings": 4.3,
+    "images": [
+        {
+            "image": "/images/products/malabar.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 6,
+    "reviews": []
+},
+{
+    "name": "Malli (PCS)",
+    "price": 125,
+    "ratings": 4.4,
+    "images": [
+        {
+            "image": "/images/products/malli.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 10,
+    "reviews": []
+},
+{
+    "name": "Mango Ginger",
+    "price": 30,
+    "ratings": 4.1,
+    "images": [
+        {
+            "image": "/images/products/mango_ginger.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 7,
+    "reviews": []
+},
+{
+    "name": "Maravalli",
+    "price": 50,
+    "ratings": 3.9,
+    "images": [
+        {
+            "image": "/images/products/maravalli.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 6,
+    "reviews": []
+},
+{
+    "name": "Mochai",
+    "price": 48,
+    "ratings": 4,
+    "images": [
+        {
+            "image": "/images/products/mochai.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Mushroom",
+    "price": 40,
+    "ratings": 4.2,
+    "images": [
+        {
+            "image": "/images/products/mushroom.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 11,
+    "reviews": []
+},
+{
+    "name": "Nookal",
+    "price": 28,
+    "ratings": 3.8,
+    "images": [
+        {
+            "image": "/images/products/nookal.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 5,
+    "reviews": []
+},
+{
+    "name": "Onion Big",
+    "price": 70,
+    "ratings": 4.1,
+    "images": [
+        {
+            "image": "/images/products/onion_big.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 14,
+    "reviews": []
+},
+{
+    "name": "Onion Small",
+    "price": 70,
+    "ratings": 4.4,
+    "images": [
+        {
+            "image": "/images/products/onion_small.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 13,
+    "reviews": []
+},
+{
+    "name": "Pallakai",
+    "price": 65,
+    "ratings": 4.2,
+    "images": [
+        {
+            "image": "/images/products/pallakai.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 12,
+    "reviews": []
+},
+{
+    "name": "Paruval",
+    "price": 62,
+    "ratings": 4.3,
+    "images": [
+        {
+            "image": "/images/products/paruval.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 11,
+    "reviews": []
+},
+{
+    "name": "Pidikarunai",
+    "price": 85,
+    "ratings": 4.5,
+    "images": [
+        {
+            "image": "/images/products/pidikarunai.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 16,
+    "reviews": []
+},
+{
+    "name": "Plantain Flower",
+    "price": 18,
+    "ratings": 4,
+    "images": [
+        {
+            "image": "/images/products/plantain_flower.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 7,
+    "reviews": []
+},
+{
+    "name": "Potato Big",
+    "price": 50,
+    "ratings": 4.1,
+    "images": [
+        {
+            "image": "/images/products/potato_big.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Pudina",
+    "price": 5,
+    "ratings": 4.5,
+    "images": [
+        {
+            "image": "/images/products/pudina.jpg"
+        }
+    ],
+    "category": "Herbs",
+    "numOfReviews": 6,
+    "reviews": []
+},
+{
+    "name": "Pumpkin (Parankikai)",
+    "price": 18,
+    "ratings": 4.2,
+    "images": [
+        {
+            "image": "/images/products/pumpkin.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 8,
+    "reviews": []
+},
+{
+    "name": "Thandhu Keerai",
+    "price": 10,
+    "ratings": 4.2,
+    "images": [
+        {
+            "image": "/images/products/thandhu_keerai.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 12,
+    "reviews": []
+},
+{
+    "name": "Anjur",
+    "price": 80,
+    "ratings": 4.5,
+    "images": [
+        {
+            "image": "/images/products/anjur.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 20,
+    "reviews": []
+},
+{
+    "name": "Nattu Garlic",
+    "price": 250,
+    "ratings": 4.8,
+    "images": [
+        {
+            "image": "/images/products/nattu_garlic.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 30,
+    "reviews": []
+},
+    {
+    "name": "French Fry",
+    "price": 300,
+    "ratings": 4.7,
+    "images": [
+        {
+            "image": "/images/products/french_fry.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 22,
+    "reviews": []
+},
+{
+    "name": "SPK Garlic",
+    "price": 210,
+    "ratings": 4.4,
+    "images": [
+        {
+            "image": "/images/products/spk_garlic.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 25,
+    "reviews": []
+},
+{
+    "name": "Pokchoi",
+    "price": 150,
+    "ratings": 4.1,
+    "images": [
+        {
+            "image": "/images/products/pokchoi.jpg"
+        }
+    ],
+    "category": "Vegetables",
+    "numOfReviews": 19,
+    "reviews": []
+}
+]
+
+
